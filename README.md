@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noskillcoder
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning cloud, network, security, and programming.
+- 🌱 I’m expanding to cloud/SRE/DevOps.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me soon.
 
